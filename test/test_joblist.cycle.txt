@@ -1,0 +1,4 @@
+echo ok	echo1	hello	echo2
+echo ok2	echo2	hello	echo1
+echo ok3	echo3	hello	echo1
+echo ok4	echo4	hello	echo2:echo3
