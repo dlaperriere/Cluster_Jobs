@@ -1,0 +1,12 @@
+*~
+
+# job manager files
+*.condor
+*.dag
+*.makefile
+*.pbs
+
+# perltidy backup
+*.tdy
+*.pm.bak
+*.pl.bak
